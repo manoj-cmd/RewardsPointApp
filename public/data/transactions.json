@@ -1,0 +1,9 @@
+[
+    { "id": "1", "customerId": "C001", "customerName": "Alice", "amount": 120, "date": "2025-01-15" },
+    { "id": "2", "customerId": "C001", "customerName": "Alice", "amount": 75, "date": "2025-02-10" },
+    { "id": "3", "customerId": "C001", "customerName": "Alice", "amount": 200, "date": "2025-03-05" },
+    { "id": "4", "customerId": "C002", "customerName": "Bob", "amount": 95, "date": "2025-01-25" },
+    { "id": "5", "customerId": "C002", "customerName": "Bob", "amount": 110, "date": "2025-02-14" },
+    { "id": "6", "customerId": "C003", "customerName": "Charlie", "amount": 130, "date": "2025-03-20" }
+  ]
+  
