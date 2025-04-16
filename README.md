@@ -49,9 +49,9 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/manoj-cmd/Reward-Point
-   cd Reward-Point
-
+   git clone https://github.com/manoj-cmd/RewardsPointApp
+   cd RewardsPointApp
+   
    ## 📸 Screenshots
 
 ### 🧾 Monthly Rewards, Total Rewards, Transactions Tables
