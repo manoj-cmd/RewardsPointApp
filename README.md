@@ -51,7 +51,7 @@ src/
    ```bash
    git clone https://github.com/manoj-cmd/RewardsPointApp
    cd RewardsPointApp
-   
+
    ## 📸 Screenshots
 
 ### 🧾 Monthly Rewards, Total Rewards, Transactions Tables
@@ -62,7 +62,7 @@ src/
 
 ### ✅ Test Run Output
 
-![Test Output](./screenshots/test-result.png)
+![Test Output](./screenshots/test-result.PNG)
 
 ## 🔧 How to Run
    
