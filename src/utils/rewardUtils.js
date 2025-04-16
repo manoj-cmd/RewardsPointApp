@@ -1,5 +1,6 @@
 export const calculateRewards = (amount) => {
-  if (!amount || isNaN(amount)) return 0;
+  if (typeof amount !== 'number' || isNaN(amount)) return 0;
+ // if (!amount || isNaN(amount)) return 0;
   const over100 = Math.max(0, amount - 100);
   const between50and100 = Math.max(0, Math.min(amount, 100) - 50);
   return over100 * 2 + between50and100 * 1;
